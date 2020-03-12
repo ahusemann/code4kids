@@ -6,4 +6,4 @@ oder
 https://bit.ly/2TKFGWu
 
 ## Präsentation
-[Link zu der eben gezeigten Präsentation](../blob/master/Code%20for%20Kids.pdf)
+[Link zu der eben gezeigten Präsentation](../master/Code%20for%20Kids.pdf)
